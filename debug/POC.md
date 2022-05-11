@@ -1,6 +1,6 @@
 ## POC for NPM package `debug`
 
-- Issue [#678](https://github.com/debug-js/debug/issues/737)
+- Issue [#737](https://github.com/debug-js/debug/issues/737)
 - [Repository](https://github.com/debug-js/debug)
 
 
